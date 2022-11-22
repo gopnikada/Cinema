@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4QHYppFzlmwu5zrCFp7r8NBzYNCkiFfzm1gVmadJmpXOs98ZeTSFXWPr7Ou0nW3HF6T9Y3ozYat1IK6evTNINw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\klars\\source\\repos\\Cinema\\Cinema\\Cinema.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\klars\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512"
+  ],
+  "logs": []
+}
